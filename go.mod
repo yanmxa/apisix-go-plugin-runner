@@ -6,6 +6,7 @@ require (
 	github.com/ReneKroon/ttlcache/v2 v2.4.0
 	github.com/api7/ext-plugin-proto v0.6.0
 	github.com/google/flatbuffers v2.0.0+incompatible
+	github.com/google/uuid v1.4.0
 	github.com/spf13/cobra v1.2.1
 	github.com/stretchr/testify v1.7.0
 	github.com/thediveo/enumflag v0.10.1
